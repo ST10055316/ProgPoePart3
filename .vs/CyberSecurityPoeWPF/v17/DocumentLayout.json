@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|c:\\users\\lab_services_student\\desktop\\prog-poe-part1\\cybersecuritypoewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|c:\\users\\lab_services_student\\desktop\\prog-poe-part1\\cybersecuritypoewpf\\cyberawarenesschatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|solutionrelative:cyberawarenesschatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|c:\\users\\lab_services_student\\desktop\\prog-poe-part1\\cybersecuritypoewpf\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|solutionrelative:audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|c:\\users\\lab_services_student\\desktop\\prog-poe-part1\\cybersecuritypoewpf\\cybersecuritypoewpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|solutionrelative:cybersecuritypoewpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|c:\\users\\lab_services_student\\desktop\\prog-poe-part1\\cybersecuritypoewpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|c:\\users\\lab_services_student\\desktop\\prog-poe-part1\\cybersecuritypoewpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|c:\\users\\lab_services_student\\desktop\\prog-poe-part1\\cybersecuritypoewpf\\cybertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|solutionrelative:cybertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|c:\\users\\lab_services_student\\desktop\\prog-poe-part1\\cybersecuritypoewpf\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|solutionrelative:quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|c:\\users\\lab_services_student\\desktop\\prog-poe-part1\\cybersecuritypoewpf\\activitylogentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|solutionrelative:activitylogentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|c:\\users\\lab_services_student\\desktop\\prog-poe-part1\\cybersecuritypoewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{35685FF1-5E27-4EB3-93DE-B4D4DD797D72}|CyberSecurityPoeWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "AudioPlayer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\AudioPlayer.cs",
+              "RelativeToolTip": "AudioPlayer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:04:28.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:24:56.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-23T14:22:03.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CyberTask.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\CyberTask.cs",
+              "RelativeDocumentMoniker": "CyberTask.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\CyberTask.cs",
+              "RelativeToolTip": "CyberTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:03:56.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CyberAwarenessChatbot.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\CyberAwarenessChatbot.cs",
+              "RelativeDocumentMoniker": "CyberAwarenessChatbot.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\CyberAwarenessChatbot.cs",
+              "RelativeToolTip": "CyberAwarenessChatbot.cs",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAAwJkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:03:24.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuizQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\QuizQuestion.cs",
+              "RelativeDocumentMoniker": "QuizQuestion.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\QuizQuestion.cs",
+              "RelativeToolTip": "QuizQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:04:10.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActivityLogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\ActivityLogEntry.cs",
+              "RelativeDocumentMoniker": "ActivityLogEntry.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\ActivityLogEntry.cs",
+              "RelativeToolTip": "ActivityLogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:02:49.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-23T13:57:57.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAP4BAAAAAAAAAAAuwCECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:57:54.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CyberSecurityPoeWPF",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\CyberSecurityPoeWPF.csproj",
+              "RelativeDocumentMoniker": "CyberSecurityPoeWPF.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG-POE-PART1\\CyberSecurityPoeWPF\\CyberSecurityPoeWPF.csproj",
+              "RelativeToolTip": "CyberSecurityPoeWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T08:04:04.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
